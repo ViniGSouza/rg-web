@@ -17,7 +17,7 @@ export default function Register() {
   const d = 97;
   const userStore = useUserStore();
 
-  const siteKey = '6LeoLUwoAAAAAB1xzVibwz_YHZP2qWAB3cst-Ov5';
+  const siteKey = '6LfoUF8oAAAAAApV3poGyi-ClOvZn0JKwdlV4Plm';
 
   const handleRecaptchaChange = (value) => {
     // Você pode lidar com a resposta do reCAPTCHA aqui.
